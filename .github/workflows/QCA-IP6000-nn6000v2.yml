@@ -1,5 +1,5 @@
 #CI项目
-name: QCA-ALL
+name: QCA-nn6000v2
 
 #CI计划
 on:
